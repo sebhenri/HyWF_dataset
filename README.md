@@ -2,7 +2,7 @@
 
 Real traces gathered with different single path and multipath algorithms.
 
-Split in several files to fit GitHub's limit of 100MB:
+The traces are split in several files to fit GitHub's limit of 100MB:
 
 single-path TCP: tcp-wifi_cells.tar.gz (paths 1 and 2)
 
